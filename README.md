@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 39 06 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/b357c595-65ff-4c11-9237-6d40e51f3c29">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 39 06 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/b357c595-65ff-4c11-9237-6d40e51f3c29">
 
 </p>
 <p>
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 41 28 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/2066b82e-1bc1-4af3-86d3-6c12e7579b32">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 41 28 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/2066b82e-1bc1-4af3-86d3-6c12e7579b32">
 
 </p>
 <p>
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 43 27 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/a251805c-0014-4a88-8a68-191ca895d2e3">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 43 27 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/a251805c-0014-4a88-8a68-191ca895d2e3">
 
 </p>
 <p>
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 48 40 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/d62f4ae1-0521-478f-b755-f37ed50554af">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 48 40 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/d62f4ae1-0521-478f-b755-f37ed50554af">
 
 </p>
 <p>
@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 50 41 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/6d222914-c75c-4e38-9d84-21d6a1e515aa">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 50 41 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/6d222914-c75c-4e38-9d84-21d6a1e515aa">
 
 </p>
 <p>
@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 53 04 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/bf5b9227-5aeb-402c-8e35-1fb38fb66c0a">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 53 04 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/bf5b9227-5aeb-402c-8e35-1fb38fb66c0a">
 
 </p>
 <p>
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<img width="1280" alt="Screen Shot 2023-07-13 at 2 56 15 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/09a3039d-9365-49ef-ab25-248d93c6f5d1">
+<img width="800" alt="Screen Shot 2023-07-13 at 2 56 15 PM" src="https://github.com/angelmartinez4147/post-install-config/assets/131706484/09a3039d-9365-49ef-ab25-248d93c6f5d1">
 
 </p>
 <p>
