@@ -90,6 +90,6 @@ For the Lab, I will be creating three SLA options that will be given to the tick
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+And for the final step of this lab, I will create some help topics the users can use with creating their tickets. These help topics can help gauge what SLA the ticket will fall under. To configure this the Admin panel will be used Click on the Manage menu then the Help Topics tab. Create the following help topics Business Critical Outage, Personal Computer Issues, Equipment Request, and Password reset. With these help topics, the users will choose one that closely relates to their issue. From there either a system or Surpreme Admin will choose the proper SLA that will be suited for the ticket with SLA-A being reserved for the most critical of tickets.
 </p>
 <br />
