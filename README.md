@@ -93,3 +93,12 @@ For the Lab, I will be creating three SLA options that will be given to the tick
 And for the final step of this lab, I will create some help topics the users can use with creating their tickets. These help topics can help gauge what SLA the ticket will fall under. To configure this the Admin panel will be used Click on the Manage menu then the Help Topics tab. Create the following help topics Business Critical Outage, Personal Computer Issues, Equipment Request, and Password reset. With these help topics, the users will choose one that closely relates to their issue. From there either a system or Surpreme Admin will choose the proper SLA that will be suited for the ticket with SLA-A being reserved for the most critical of tickets.
 </p>
 <br />
+
+
+<h1>osTicket - Post-Install Configuration Completed</h1>
+
+</p>
+<p>
+Now after completing the post-install configuration, I can use osTicket like like a real Ticketing System sending in tickets and working them as an agent. Being able to respond and resolve each ticket that I send in as a user. Allowing me to practice and gain experience with each completion of the lab.
+</p>
+<br />
