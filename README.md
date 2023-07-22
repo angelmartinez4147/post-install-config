@@ -14,7 +14,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -39,7 +39,7 @@ Create
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With osTicket freshly installed, it's time to set up the ticketing system to make it more like a real environment. The first step is to find the Admin/Agent tab that will be in the top right of osTicket and select Admin. Within the admin panel, we will create a role called "Supreme Admin". roles are the permissions given to an agent(worker) per department that they will have access to. For the sake of the lab, we are giving every permission that can be granted to the Supreme Admin role allowing us to configure the next steps in the lab.  
 </p>
 <br />
 
