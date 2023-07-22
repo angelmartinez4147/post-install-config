@@ -39,7 +39,9 @@ Create
 
 </p>
 <p>
-With osTicket freshly installed, it's time to set up the ticketing system to make it more like a real environment. The first step is to find the Admin/Agent tab that will be in the top right of osTicket and select Admin. Within the admin panel, we will create a role called "Supreme Admin". roles are the permissions given to an agent(worker) per department that they will have access to. For the sake of the lab, we are giving every permission that can be granted to the Supreme Admin role allowing us to configure the next steps in the lab.  
+With osTicket freshly installed, it's time to set up the ticketing system to make it more like a real environment. The first step is to find the Admin/Agent tab that will be in the top right of osTicket. I will be using both panels for this lab. 
+
+Within the admin panel, I will create a role called "Supreme Admin". roles are the permissions given to an agent(worker) per department that they will have access to. For the sake of the lab, I will be giving every permission that can be granted to the Supreme Admin role allowing us to configure the next steps in the lab. To create a new role, open the Admin panel and enter the Agents menu, click on Roles, and create the role needed.
 </p>
 <br />
 
@@ -48,7 +50,7 @@ With osTicket freshly installed, it's time to set up the ticketing system to mak
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The second step is to configure a new Department for System Administrators. To create a Department I will be in the Admin panel, open the Agents menu, and click on Departments. Creating the new department "system Administrators".
 </p>
 <br />
 
@@ -57,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Third step is a new Level II Support Team will be created. To go where I need to be I will be in the Admin panel and open the Agents menu. Click on Teams and add a new Level II support Team. osTicket would already have a Level I support team the one I create will serve as a Support team with more experience. 
 </p>
 <br />
 
