@@ -81,7 +81,8 @@ Now to create the users that will be the customers sending each ticket switching
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the sixth step, The SLAs will need to be created the SLA(service level agreement) is needed solely to determine the severity of the ticket and give the agents the length of time needed to resolve the ticket. To configure the SLAs I will switch back to the Admin panel and select the Manage menu then click the SLA tab.
+For the Lab, I will be creating three SLA options that will be given to the tickets once created. SLA-A (1 hour, 24/7, SLA-B (4 hours, 24/7), and SLA-C (8 hours, business hours).
 </p>
 <br />
 
